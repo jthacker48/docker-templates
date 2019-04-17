@@ -11,7 +11,7 @@
   <Overview>Go-lang LDAP Authentication (GLAuth) is a secure, easy-to-use, LDAP server w/ configurable backends.</Overview>
   <Category/>
   <WebUI>http://[IP]:[PORT:]</WebUI>
-  <TemplateURL>https://github.com/jthacker48/docker-templates/blob/master/glauth.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/jthacker48/docker-templates/master/glauth.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/jthacker48/docker-templates/master/img/glauth.png</Icon>
   <ExtraParams/>
   <PostArgs/>
